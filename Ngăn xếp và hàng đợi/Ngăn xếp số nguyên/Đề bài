@@ -1,0 +1,7 @@
+(a) Cài đặt CTDL StackInt và LinkedStackInt dùng để chứa các số nguyên, trong đó:
+• Sử dụng mảng (StackInt) và danh sách liên kết (LinkedStackInt)
+• Cài đặt các thao tác: InitStack, IsEmpty, IsFull, PopStack, PushStack, PeekStack, Clear
+(b) Ứng dụng ngăn xếp để đảo số,
+(c) Ứng dụng ngăn xếp để kiểm tra xâu đối xứng (mở rộng sang StackString),
+(d) Ứng dụng ngăn xếp để đổi từ số thập phân sang nhị phân,
+(e) Nhập một biểu thức từ bàn phím, hãy chuyển sang dạng hậu tố và tính giá trị biểu thức.
